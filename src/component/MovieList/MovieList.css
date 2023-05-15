@@ -1,0 +1,12 @@
+.movielist { display: flex;
+    flex-direction: row;
+    align-items:center;
+
+    margin: 10px;
+    margin-left: 10px;
+    flex-wrap:wrap;
+    justify-items:stretch ;
+    justify-content: space-around;
+    
+    
+}
